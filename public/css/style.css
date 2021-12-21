@@ -1,0 +1,30 @@
+body
+{
+    margin: auto;
+    width: 500px;
+    font-family: 'Arial';
+    font-size: 12px;
+    border: 1px, solid, lightgrey;
+
+}
+
+button, .button
+{
+    background-color: steelblue;
+    text-decoration: none;
+    color: white;
+}
+
+.piece
+{
+    background-color: lightgrey;
+    margin: 5px;
+    padding: 5px;
+}
+
+#total
+{
+    background-color: lightblue;
+    margin: 5px;
+    padding: 5px;
+}
